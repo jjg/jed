@@ -1,0 +1,3 @@
+# jed
+
+My simple journal
