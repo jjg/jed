@@ -1,3 +1,3 @@
 # jed
 
-My simple journal
+My simple journal.
